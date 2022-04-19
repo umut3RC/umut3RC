@@ -5,4 +5,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;">
-<img src="https://github.com/erdem149/erdem149/raw/main/github-contribution-grid-snake.svg" style="max-width: 100%;">
+<img src="https://github.com/umut3rc/umut3rc/raw/main/github-contribution-grid-snake.svg" style="max-width: 100%;">
