@@ -11,5 +11,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="flutter" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50">
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umut3RC&layout=compact&langs_count=6&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umut3RC&layout=compact&langs_count=10&theme=radical)
 </div>
